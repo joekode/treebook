@@ -10,3 +10,9 @@ joe:
   last_name: "Wu"
   email: "joe.wu@snipped.co"
   profile_name: "joewu"
+
+matt:
+  first_name: "Matt"
+  last_name: "Clifford"
+  email: "matt@f.com"
+  profile_name: "mattc"
