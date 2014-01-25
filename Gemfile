@@ -36,6 +36,9 @@ gem 'jbuilder', '~> 1.2'
 
 # Devise auth
 gem 'devise'
+gem 'figaro'
+gem 'omniauth-twitter'
+gem 'omniauth-facebook'
 
 # Simple form
 gem 'simple_form'
